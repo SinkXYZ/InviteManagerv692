@@ -1,0 +1,5 @@
+mainprefix: "-"
+defaultjoinmessage: "Welcome {user} to Nixo coding, please read #📚・roles #⚡・guide #📚・rules"
+defaultleavemessage: "{user} Left, Invited by {inviter}"
+token: "Nzc4MDAwMzQ1ODA4ODk2MDIw.X7LnSA.Hs8YCun6rcbMca16LHBXYRjde1U"
+color: "GREEN"
